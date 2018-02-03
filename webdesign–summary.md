@@ -1,4 +1,4 @@
-#A Dao of Web Design Summary
+# A Dao of Web Design Summary
 
 By Amy Chan 
 
@@ -26,7 +26,7 @@ in portraying what you want. Allow adaptability and flow to happen.
 Read the full article 
 [A Dao of Web Design](https://alistapart.com/article/dao) by John Allsopp
 
-#About the Author
+# About the Author
 
 Amy is a student at Montserrat College of Art in Beverly studying graphic design.
 She enjoys drinking coffee and eating fruit snacks. She works at a local coffee 
