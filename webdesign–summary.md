@@ -23,7 +23,7 @@ Your audience is important, font sizes, color, and layout all must flow in order
 to be accessible and capture the message. Web design shouldn't be seen as a limitation
 in portraying what you want. Allow adaptability and flow to happen. 
 
-Read the full article 
+Read the full article, 
 [A Dao of Web Design](https://alistapart.com/article/dao) by John Allsopp
 
 # About the Author
