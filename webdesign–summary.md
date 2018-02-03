@@ -1,6 +1,6 @@
 # A Dao of Web Design Summary
 
-By Amy Chan 
+##### By Amy Chan 
 
 As designers, we aspire for our message to be conveyed perfectly across every way
 you can view it. We control, and limit ourselves to such tight constraints because 
