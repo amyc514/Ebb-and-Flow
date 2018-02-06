@@ -1,6 +1,6 @@
 # A Dao of Web Design Summary
-
-#### By [Amy Chan](https://github.com/amyc514/Ebb-and-Flow/blob/master/img/hero-image-amy-chan.png)
+![hero image](https://github.com/amyc514/Ebb-and-Flow/blob/master/img/hero-image-amy-chan.png?raw=true)
+#### By [Amy Chan]
 
 As designers, we aspire for our message to be conveyed perfectly across every way you can view it. We control, and limit ourselves to such tight constraints because if our message is portrayed how we want it in one medium; it must look the 
 same throughout all. When it comes to web design we must consider many factors such as the medium and how it is different 
