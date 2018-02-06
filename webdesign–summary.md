@@ -15,5 +15,6 @@ Read the full article,
 [A Dao of Web Design](https://alistapart.com/article/dao) by John Allsopp
 
 # About the Author
+![headshot](https://github.com/amyc514/Ebb-and-Flow/blob/master/img/headshot-amy-chan.jpg)
 
 Amy is a student at Montserrat College of Art in Beverly studying graphic design. She enjoys drinking coffee and eating fruit snacks. She works at a local coffee shop creating some decent latte art. In her spare time she collections candles and Russian dolls. Her favorite time of the year is the summer where she can go camping and also be near the ocean. 
