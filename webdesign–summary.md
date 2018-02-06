@@ -16,8 +16,7 @@ In print, many fonts are available to us, however in web it is not as common but
 workable. Font size should be your focus, considering those with bad eyesight and those
 with good eyesight can change how your audience views it. Layout is also helpful with
 readability. Finally when it comes to color, don't rely on it to convey your message.
-your message. The use of style sheets can be very helpful, just remember not to 
-control the page.
+The use of style sheets can be very helpful, just remember not to control the page.
 
 Your audience is important, font sizes, color, and layout all must flow in order for it
 to be accessible and capture the message. Web design shouldn't be seen as a limitation
