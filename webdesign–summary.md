@@ -1,5 +1,5 @@
 # A Dao of Web Design Summary
-![hero image](https://github.com/amyc514/Ebb-and-Flow/blob/master/img/hero-image-amy-chan.png?raw=true)
+![hero image](https://github.com/amyc514/Ebb-and-Flow/blob/master/img/hero-image-amy-chan.png)
 #### By Amy Chan
 
 As designers, we aspire for our message to be conveyed perfectly across every way you can view it. We control, and limit ourselves to such tight constraints because if our message is portrayed how we want it in one medium; it must look the same throughout all. When it comes to web design we must consider many factors such as the medium and how it is different from print, the accessibility, and the functionality. We must remember to focus on the entire hierarchy and not let the idea of design grab our attention away. The idea of control needs to be loosen up and we need to let things flow and be more flexible. Eventually when we allow that to happen we are adapting and before you know it, the design is already coming along. 
