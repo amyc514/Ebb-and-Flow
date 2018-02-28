@@ -35,8 +35,6 @@ h2{font-style: oblique;
 .aboutauthor{padding-top: 10px;
 }
 
-@media print and (max-width: 400px)
-
 @media screen and (max-width: 767px) {
 h4{text-align: center;
     margin-bottom: 40px;
