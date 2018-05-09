@@ -1,0 +1,50 @@
+.wrapper{max-width: 960px;
+    font-family: sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+}
+h1{text-align: center;
+    margin-bottom: 40px;
+    margin-top: 5%;
+    font-weight: 600;
+}
+.heroimage{text-align: center;
+}
+h4{text-align: center;
+    margin-bottom: 40px;
+    font-weight: 600;
+    text-indent: -365px;
+    font-size: 0.9em;
+}
+.text{font-weight: 300;
+    line-height: 1.6;
+    padding-left: 40px;
+}
+h2{font-style: oblique;
+    margin-top: 40px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-bottom: 0;
+}
+.space{margin-bottom: 10%;
+}
+.selfie{padding: 40px;
+    padding-top: 0px;
+    float: left;
+}
+.aboutauthor{padding-top: 10px;
+}
+
+@media screen and (max-width: 767px) {
+h4{text-align: center;
+    margin-bottom: 40px;
+    font-weight: 600;
+    text-indent: -450px;
+    font-size: 0.9em;
+}
+.selfie {
+	padding: 40px;
+    padding-top: 0px;
+    float: none;
+}
+}
